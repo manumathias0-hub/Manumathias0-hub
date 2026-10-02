@@ -2,7 +2,7 @@
 
 **Estudante de Ciência da Computação** no Centro Universitário do DF (UDF)  
 ---
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 **Linguagens de Programação**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +20,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-📫 **Como me encontrar:**
+**Como me encontrar:**
 - **LinkedIn:** [Manuela Mathias](https://www.linkedin.com/in/manuela-mathias-6019b8423/)
 - **E-mail:** manumathias0@gmail.com
 
